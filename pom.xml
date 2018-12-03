@@ -10,6 +10,9 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>netty-in-action</module>
+      <module>netty-The-definitive-guide</module>
+      <module>netty-heartbeat-server</module>
+      <module>netty-heartbeat-client</module>
     </modules>
 
     <properties>
